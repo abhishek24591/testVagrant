@@ -1,0 +1,15 @@
+package TestVagrant_Automation.TestVgrant_Automation;
+
+public class NDTV {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.setProperty("webdriver.chrome.driver", "F:\\Downloads\\chromedriver_win32_version85\\chromedriver.exe");
+		
+		
+		
+
+	}
+
+}
